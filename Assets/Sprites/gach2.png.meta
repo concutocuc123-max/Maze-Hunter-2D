@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7f09a15fce7b7a14d86c31478fe7ba41
+guid: 4553a5a8111c50d46b63da6b1d2dd831
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6553368393737122904
-    second: NES - Lode Runner - Miscellaneous - Tileset_0
+      213: -7905897122535299914
+    second: gach2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: NES - Lode Runner - Miscellaneous - Tileset_0
+      name: gach2_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 176
-        height: 96
+        width: 140
+        height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 81, z: 159, w: 0}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 85439f635dd32fa50800000000000000
-      internalID: 6553368393737122904
+      spriteID: 6b4208c447c984290800000000000000
+      internalID: -7905897122535299914
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 9997931cdaedcd54195aa473a6d04d72
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      NES - Lode Runner - Miscellaneous - Tileset_0: 6553368393737122904
+      gach2_0: -7905897122535299914
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
