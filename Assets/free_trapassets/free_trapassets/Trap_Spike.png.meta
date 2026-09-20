@@ -1,0 +1,2223 @@
+fileFormatVersion: 2
+guid: aaeee38ccff72e941bed56351742b2bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9120327878231170204
+    second: Trap_Spike_0
+  - first:
+      213: 2786770492317036334
+    second: Trap_Spike_1
+  - first:
+      213: -7467406581430284751
+    second: Trap_Spike_2
+  - first:
+      213: -4002663465191383720
+    second: Trap_Spike_3
+  - first:
+      213: -2224710114893961609
+    second: Trap_Spike_4
+  - first:
+      213: -6181377176361780670
+    second: Trap_Spike_5
+  - first:
+      213: 8637509074582702177
+    second: Trap_Spike_6
+  - first:
+      213: 4137708939922759071
+    second: Trap_Spike_7
+  - first:
+      213: 2424384320115142926
+    second: Trap_Spike_8
+  - first:
+      213: -6964834906460776709
+    second: Trap_Spike_9
+  - first:
+      213: 1698778921511284237
+    second: Trap_Spike_10
+  - first:
+      213: 7362680298908870417
+    second: Trap_Spike_11
+  - first:
+      213: -915224258794815207
+    second: Trap_Spike_12
+  - first:
+      213: -6019039621559300825
+    second: Trap_Spike_13
+  - first:
+      213: -1701748951183298442
+    second: Trap_Spike_14
+  - first:
+      213: 5241705518206205142
+    second: Trap_Spike_15
+  - first:
+      213: 7808139394489366021
+    second: Trap_Spike_16
+  - first:
+      213: 8561194203572743726
+    second: Trap_Spike_17
+  - first:
+      213: -1308207682554644676
+    second: Trap_Spike_18
+  - first:
+      213: -6704808482856076623
+    second: Trap_Spike_19
+  - first:
+      213: 1016639199563654425
+    second: Trap_Spike_20
+  - first:
+      213: 8393303548832197028
+    second: Trap_Spike_21
+  - first:
+      213: 8940680583745920168
+    second: Trap_Spike_22
+  - first:
+      213: 4543860233607128267
+    second: Trap_Spike_23
+  - first:
+      213: 4948113302859757684
+    second: Trap_Spike_24
+  - first:
+      213: 7635889320672484168
+    second: Trap_Spike_25
+  - first:
+      213: 8711714543505645467
+    second: Trap_Spike_26
+  - first:
+      213: 8693428608098801920
+    second: Trap_Spike_27
+  - first:
+      213: 6397337712741850579
+    second: Trap_Spike_28
+  - first:
+      213: 2770006515157211358
+    second: Trap_Spike_29
+  - first:
+      213: -8392278405330876376
+    second: Trap_Spike_30
+  - first:
+      213: -8164638854805330812
+    second: Trap_Spike_31
+  - first:
+      213: 1790985530600441525
+    second: Trap_Spike_32
+  - first:
+      213: -3018408705971001385
+    second: Trap_Spike_33
+  - first:
+      213: -414575776356444641
+    second: Trap_Spike_34
+  - first:
+      213: 6526105933852641279
+    second: Trap_Spike_35
+  - first:
+      213: -8334681772154659098
+    second: Trap_Spike_36
+  - first:
+      213: 980712247939691755
+    second: Trap_Spike_37
+  - first:
+      213: -864482396280270406
+    second: Trap_Spike_38
+  - first:
+      213: -2866965123616525518
+    second: Trap_Spike_39
+  - first:
+      213: -1315072729375223616
+    second: Trap_Spike_40
+  - first:
+      213: 1120716516004520857
+    second: Trap_Spike_41
+  - first:
+      213: 1775995361832489310
+    second: Trap_Spike_42
+  - first:
+      213: 2735587211196906625
+    second: Trap_Spike_43
+  - first:
+      213: -6062052237201609700
+    second: Trap_Spike_44
+  - first:
+      213: -1722837119434296405
+    second: Trap_Spike_45
+  - first:
+      213: 1314900058016119077
+    second: Trap_Spike_46
+  - first:
+      213: -3259260395177664586
+    second: Trap_Spike_47
+  - first:
+      213: -549274812482226899
+    second: Trap_Spike_48
+  - first:
+      213: -5933791355630405790
+    second: Trap_Spike_49
+  - first:
+      213: -2688441088164856545
+    second: Trap_Spike_50
+  - first:
+      213: 1256850271766656596
+    second: Trap_Spike_51
+  - first:
+      213: 112483328313929918
+    second: Trap_Spike_52
+  - first:
+      213: -8644758347509496583
+    second: Trap_Spike_53
+  - first:
+      213: -3259857222193436724
+    second: Trap_Spike_54
+  - first:
+      213: 351348173381401478
+    second: Trap_Spike_55
+  - first:
+      213: 4792185672526444559
+    second: Trap_Spike_56
+  - first:
+      213: -8179506172067670974
+    second: Trap_Spike_57
+  - first:
+      213: 4837748419368830355
+    second: Trap_Spike_58
+  - first:
+      213: 4525795714633109833
+    second: Trap_Spike_59
+  - first:
+      213: 7387011668582690438
+    second: Trap_Spike_60
+  - first:
+      213: 1225888123531747257
+    second: Trap_Spike_61
+  - first:
+      213: 3693759410136954961
+    second: Trap_Spike_62
+  - first:
+      213: 2894414267469962478
+    second: Trap_Spike_63
+  - first:
+      213: 1530986263315435980
+    second: Trap_Spike_64
+  - first:
+      213: -4158636736875171662
+    second: Trap_Spike_65
+  - first:
+      213: 7459225968734320537
+    second: Trap_Spike_66
+  - first:
+      213: 9180262923457100122
+    second: Trap_Spike_67
+  - first:
+      213: -4111399581061460544
+    second: Trap_Spike_68
+  - first:
+      213: 6528361721483180477
+    second: Trap_Spike_69
+  - first:
+      213: 1665865302434012449
+    second: Trap_Spike_70
+  - first:
+      213: 2666649561424119752
+    second: Trap_Spike_71
+  - first:
+      213: -6821164073001708139
+    second: Trap_Spike_72
+  - first:
+      213: 2579362342031541982
+    second: Trap_Spike_73
+  - first:
+      213: -3492761347165240357
+    second: Trap_Spike_74
+  - first:
+      213: 825021934570567497
+    second: Trap_Spike_75
+  - first:
+      213: 3317294177855407072
+    second: Trap_Spike_76
+  - first:
+      213: -1603343816961795604
+    second: Trap_Spike_77
+  - first:
+      213: -5488308273426124077
+    second: Trap_Spike_78
+  - first:
+      213: -9024649109573650912
+    second: Trap_Spike_79
+  - first:
+      213: -6996444896334655090
+    second: Trap_Spike_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trap_Spike_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 127
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c9f0932e9e19e70800000000000000
+      internalID: 9120327878231170204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 127
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fe8117ff89ca620800000000000000
+      internalID: 2786770492317036334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 127
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e0f6837417e5890800000000000000
+      internalID: -7467406581430284751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 127
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d55d119cea378c0800000000000000
+      internalID: -4002663465191383720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 127
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776e68100fd3021e0800000000000000
+      internalID: -2224710114893961609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 127
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24abf3c5536573aa0800000000000000
+      internalID: -6181377176361780670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 127
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16807b66db89ed770800000000000000
+      internalID: 8637509074582702177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 127
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ddd0cbb581c6930800000000000000
+      internalID: 4137708939922759071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_8
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 127
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e017d77b1b425a120800000000000000
+      internalID: 2424384320115142926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 127
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf61a29cd8fe75f90800000000000000
+      internalID: -6964834906460776709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 127
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ee998bd66439710800000000000000
+      internalID: 1698778921511284237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_11
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 127
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117ea3309be7d2660800000000000000
+      internalID: 7362680298908870417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_12
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 127
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91107bcb2687c43f0800000000000000
+      internalID: -915224258794815207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_13
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 127
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dc4fbba53187ca0800000000000000
+      internalID: -6019039621559300825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_14
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 127
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67073db585c2268e0800000000000000
+      internalID: -1701748951183298442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_15
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 127
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcb2e5a5674eb840800000000000000
+      internalID: 5241705518206205142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_16
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 127
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506b545f8651c5c60800000000000000
+      internalID: 7808139394489366021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_17
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 127
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e261dd4c87fc670800000000000000
+      internalID: 8561194203572743726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_18
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 127
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37b4ec3b0058dde0800000000000000
+      internalID: -1308207682554644676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_19
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 127
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba765c553cb3f2a0800000000000000
+      internalID: -6704808482856076623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_20
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 127
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915aab237f3db1e00800000000000000
+      internalID: 1016639199563654425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_21
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 138
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a92b28ab110b7470800000000000000
+      internalID: 8393303548832197028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_22
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 138
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac58640f9da31c70800000000000000
+      internalID: 8940680583745920168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_23
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 138
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc42d2ddec80f0f30800000000000000
+      internalID: 4543860233607128267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_24
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 158
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478375d25da3ba440800000000000000
+      internalID: 4948113302859757684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_25
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 158
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bd1e661e028f960800000000000000
+      internalID: 7635889320672484168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_26
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 158
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f124e783a36e870800000000000000
+      internalID: 8711714543505645467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_27
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 158
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00992f1624345a870800000000000000
+      internalID: 8693428608098801920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_28
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 158
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd103451c8e7c850800000000000000
+      internalID: 6397337712741850579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_29
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 158
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed89679df3a017620800000000000000
+      internalID: 2770006515157211358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_30
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 157
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828421a2143a88b80800000000000000
+      internalID: -8392278405330876376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_31
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 157
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484e9fb383061be80800000000000000
+      internalID: -8164638854805330812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_32
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 157
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6cd4dd9dbdad810800000000000000
+      internalID: 1790985530600441525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_33
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 157
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7e6ad26457c16d0800000000000000
+      internalID: -3018408705971001385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_34
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 157
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16dac527812f3af0800000000000000
+      internalID: -414575776356444641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_35
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 157
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff70bd125c2619a50800000000000000
+      internalID: 6526105933852641279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_36
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 157
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee5cc65613455c80800000000000000
+      internalID: -8334681772154659098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_37
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 157
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4f15de7903c9d00800000000000000
+      internalID: 980712247939691755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_38
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 157
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1d22f37ddb004f0800000000000000
+      internalID: -864482396280270406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_39
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 157
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233376fe86e7638d0800000000000000
+      internalID: -2866965123616525518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_40
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 157
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c059c7f15cefbde0800000000000000
+      internalID: -1315072729375223616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_41
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 157
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993ec56cbb59d8f00800000000000000
+      internalID: 1120716516004520857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_42
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 157
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5154c83f5a95a810800000000000000
+      internalID: 1775995361832489310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_43
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 157
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c3e772312c6f520800000000000000
+      internalID: 2735587211196906625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_44
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 157
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c6cbfbb934fdba0800000000000000
+      internalID: -6062052237201609700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_45
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 25
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3f24294c04718e0800000000000000
+      internalID: -1722837119434296405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 25
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529f039d2a67f3210800000000000000
+      internalID: 1314900058016119077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_47
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 25
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf9fea50f7c4c2d0800000000000000
+      internalID: -3259260395177664586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 21
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d257dedd7759068f0800000000000000
+      internalID: -549274812482226899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_49
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 21
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267bd5c5330f6ada0800000000000000
+      internalID: -5933791355630405790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_50
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 21
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d7e54031db0bad0800000000000000
+      internalID: -2688441088164856545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_51
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 17
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4563180c9aa317110800000000000000
+      internalID: 1256850271766656596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_52
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 17
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb03e4bbdfe9f8100800000000000000
+      internalID: 112483328313929918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 17
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f48a97b516a70880800000000000000
+      internalID: -8644758347509496583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_54
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 14
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc72bacb029a2c2d0800000000000000
+      internalID: -3259857222193436724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_55
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 14
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b71ea5d4d30e400800000000000000
+      internalID: 351348173381401478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_56
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 14
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08b7a4aa73418240800000000000000
+      internalID: 4792185672526444559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_57
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 9
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2449acf297e8c7e80800000000000000
+      internalID: -8179506172067670974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_58
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 9
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395cf215e82232340800000000000000
+      internalID: 4837748419368830355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_59
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 9
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94111b8493bdece30800000000000000
+      internalID: 4525795714633109833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_60
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 5
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e698979ffe38660800000000000000
+      internalID: 7387011668582690438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_61
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 5
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfda79d0ca330110800000000000000
+      internalID: 1225888123531747257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_62
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 5
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15838f6fc9ed24330800000000000000
+      internalID: 3693759410136954961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_63
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 0
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec9e55e0760b2820800000000000000
+      internalID: 2894414267469962478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_64
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 0
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc15bec15e72f3510800000000000000
+      internalID: 1530986263315435980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_65
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 0
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b07aa4dbed8946c0800000000000000
+      internalID: -4158636736875171662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_66
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 0
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99737c57f7e748760800000000000000
+      internalID: 7459225968734320537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_67
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5979516d78d66f70800000000000000
+      internalID: 9180262923457100122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_68
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 0
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd44293ddf51f6c0800000000000000
+      internalID: -4111399581061460544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_69
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9334e9566699a50800000000000000
+      internalID: 6528361721483180477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_70
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d5a3b9aa75e1710800000000000000
+      internalID: 1665865302434012449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_71
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 0
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7c229c5a7d10520800000000000000
+      internalID: 2666649561424119752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_72
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 0
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595931a6a6b5651a0800000000000000
+      internalID: -6821164073001708139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_73
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed64fcf426cbbc320800000000000000
+      internalID: 2579362342031541982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_74
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 0
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd340096f08378fc0800000000000000
+      internalID: -3492761347165240357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_75
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 0
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947fbfd0411137b00800000000000000
+      internalID: 825021934570567497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_76
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 0
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e30b8e9a75690e20800000000000000
+      internalID: 3317294177855407072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_77
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 0
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce95c291b47cfb9e0800000000000000
+      internalID: -1603343816961795604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_78
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 0
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2399024bc95d3b0800000000000000
+      internalID: -5488308273426124077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_79
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0263151137102c280800000000000000
+      internalID: -9024649109573650912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trap_Spike_80
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 0
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81d06f7f62a7ee90800000000000000
+      internalID: -6996444896334655090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Trap_Spike_0: 9120327878231170204
+      Trap_Spike_1: 2786770492317036334
+      Trap_Spike_10: 1698778921511284237
+      Trap_Spike_11: 7362680298908870417
+      Trap_Spike_12: -915224258794815207
+      Trap_Spike_13: -6019039621559300825
+      Trap_Spike_14: -1701748951183298442
+      Trap_Spike_15: 5241705518206205142
+      Trap_Spike_16: 7808139394489366021
+      Trap_Spike_17: 8561194203572743726
+      Trap_Spike_18: -1308207682554644676
+      Trap_Spike_19: -6704808482856076623
+      Trap_Spike_2: -7467406581430284751
+      Trap_Spike_20: 1016639199563654425
+      Trap_Spike_21: 8393303548832197028
+      Trap_Spike_22: 8940680583745920168
+      Trap_Spike_23: 4543860233607128267
+      Trap_Spike_24: 4948113302859757684
+      Trap_Spike_25: 7635889320672484168
+      Trap_Spike_26: 8711714543505645467
+      Trap_Spike_27: 8693428608098801920
+      Trap_Spike_28: 6397337712741850579
+      Trap_Spike_29: 2770006515157211358
+      Trap_Spike_3: -4002663465191383720
+      Trap_Spike_30: -8392278405330876376
+      Trap_Spike_31: -8164638854805330812
+      Trap_Spike_32: 1790985530600441525
+      Trap_Spike_33: -3018408705971001385
+      Trap_Spike_34: -414575776356444641
+      Trap_Spike_35: 6526105933852641279
+      Trap_Spike_36: -8334681772154659098
+      Trap_Spike_37: 980712247939691755
+      Trap_Spike_38: -864482396280270406
+      Trap_Spike_39: -2866965123616525518
+      Trap_Spike_4: -2224710114893961609
+      Trap_Spike_40: -1315072729375223616
+      Trap_Spike_41: 1120716516004520857
+      Trap_Spike_42: 1775995361832489310
+      Trap_Spike_43: 2735587211196906625
+      Trap_Spike_44: -6062052237201609700
+      Trap_Spike_45: -1722837119434296405
+      Trap_Spike_46: 1314900058016119077
+      Trap_Spike_47: -3259260395177664586
+      Trap_Spike_48: -549274812482226899
+      Trap_Spike_49: -5933791355630405790
+      Trap_Spike_5: -6181377176361780670
+      Trap_Spike_50: -2688441088164856545
+      Trap_Spike_51: 1256850271766656596
+      Trap_Spike_52: 112483328313929918
+      Trap_Spike_53: -8644758347509496583
+      Trap_Spike_54: -3259857222193436724
+      Trap_Spike_55: 351348173381401478
+      Trap_Spike_56: 4792185672526444559
+      Trap_Spike_57: -8179506172067670974
+      Trap_Spike_58: 4837748419368830355
+      Trap_Spike_59: 4525795714633109833
+      Trap_Spike_6: 8637509074582702177
+      Trap_Spike_60: 7387011668582690438
+      Trap_Spike_61: 1225888123531747257
+      Trap_Spike_62: 3693759410136954961
+      Trap_Spike_63: 2894414267469962478
+      Trap_Spike_64: 1530986263315435980
+      Trap_Spike_65: -4158636736875171662
+      Trap_Spike_66: 7459225968734320537
+      Trap_Spike_67: 9180262923457100122
+      Trap_Spike_68: -4111399581061460544
+      Trap_Spike_69: 6528361721483180477
+      Trap_Spike_7: 4137708939922759071
+      Trap_Spike_70: 1665865302434012449
+      Trap_Spike_71: 2666649561424119752
+      Trap_Spike_72: -6821164073001708139
+      Trap_Spike_73: 2579362342031541982
+      Trap_Spike_74: -3492761347165240357
+      Trap_Spike_75: 825021934570567497
+      Trap_Spike_76: 3317294177855407072
+      Trap_Spike_77: -1603343816961795604
+      Trap_Spike_78: -5488308273426124077
+      Trap_Spike_79: -9024649109573650912
+      Trap_Spike_8: 2424384320115142926
+      Trap_Spike_80: -6996444896334655090
+      Trap_Spike_9: -6964834906460776709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
