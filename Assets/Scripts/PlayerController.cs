@@ -16,7 +16,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        rb.gravityScale = 0; // Dùng cho Top-Down
+        rb.gravityScale = 0; 
         
         spriteRenderer = GetComponent<SpriteRenderer>();
 
@@ -71,7 +71,6 @@ public class PlayerController : MonoBehaviour
             GameManager.Instance.TakeDamage(1);
             if (damageSound) audioSource.PlayOneShot(damageSound);
             
-            // Đẩy lùi nhẹ (Knockback)
             Vector2 knockback = (transform.position - collision.transform.position).normalized;
             rb.AddForce(knockback * 10f, ForceMode2D.Impulse);
         }
