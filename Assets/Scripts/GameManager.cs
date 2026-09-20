@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
 
+    [Header("Game Settings")]
     public int score = 0;
     public int health = 3;
     public float timeRemaining = 60f;
@@ -25,13 +26,23 @@ public class GameManager : MonoBehaviour
 
     void Awake()
     {
-        if (Instance == null) Instance = this;
+        if (Instance == null)
+        {
+            Instance = this;
+        }
+        else if (Instance != this)
+        {
+            Destroy(gameObject);
+        }
     }
 
     void Start()
     {
-        winPanel.SetActive(false);
-        losePanel.SetActive(false);
+        Time.timeScale = 1f;
+
+        if (winPanel != null) winPanel.SetActive(false);
+        if (losePanel != null) losePanel.SetActive(false);
+        
         UpdateUI();
     }
 
@@ -46,6 +57,8 @@ public class GameManager : MonoBehaviour
         }
         else
         {
+            timeRemaining = 0;
+            UpdateUI();
             GameOver(false); // Hết giờ -> Thua
         }
     }
@@ -60,7 +73,10 @@ public class GameManager : MonoBehaviour
     public void TakeDamage(int damage)
     {
         health -= damage;
+        if (health < 0) health = 0;
+
         UpdateUI();
+
         if (health <= 0)
         {
             GameOver(false); // Hết máu -> Thua
@@ -75,27 +91,34 @@ public class GameManager : MonoBehaviour
     public void GameOver(bool isWin)
     {
         isGameOver = true;
-        Time.timeScale = 0; // Dừng game
-        if (isWin) winPanel.SetActive(true);
-        else losePanel.SetActive(true);
+        Time.timeScale = 0; // Dừng thời gian game
+
+        if (isWin)
+        {
+            if (winPanel != null) winPanel.SetActive(true);
+        }
+        else
+        {
+            if (losePanel != null) losePanel.SetActive(true);
+        }
     }
 
     private void UpdateUI()
     {
-        scoreText.text = "Score: " + score;
-        healthText.text = "Health: " + health;
-        timerText.text = "Time: " + Mathf.CeilToInt(timeRemaining).ToString() + "s";
+        if (scoreText != null) scoreText.text = "Score: " + score;
+        if (healthText != null) healthText.text = "Health: " + health;
+        if (timerText != null) timerText.text = "Time: " + Mathf.CeilToInt(timeRemaining).ToString() + "s";
     }
 
     public void RestartLevel()
     {
-        Time.timeScale = 1;
+        Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     public void NextLevel()
     {
-        Time.timeScale = 1;
+        Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }
