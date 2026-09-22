@@ -155,7 +155,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1, y: 21}
+  m_AnchoredPosition: {x: -22, y: 21}
   m_SizeDelta: {x: 281.444, y: 41.297}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &41438183
@@ -288,7 +288,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1, y: -56}
+  m_AnchoredPosition: {x: 20, y: -56}
   m_SizeDelta: {x: 281.444, y: 41.297}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &99886149
@@ -3910,8 +3910,8 @@ MonoBehaviour:
   bgmClip: {fileID: 8300000, guid: 4019da420c4ca0e478cd955695b412c5, type: 3}
   coinSFX: {fileID: 8300000, guid: 6c6499738563d8b4bb0d8faa285662fa, type: 3}
   damageSFX: {fileID: 8300000, guid: c9c4d53469e5a9e46a7f393692d4e33c, type: 3}
-  winSFX: {fileID: 0}
-  loseSFX: {fileID: 0}
+  winSFX: {fileID: 8300000, guid: ffa9fe52a898b6046b5b270ddbc2ce7b, type: 3}
+  loseSFX: {fileID: 8300000, guid: a318ce12090fa9742b7ef91c957f13a9, type: 3}
   buttonClickSFX: {fileID: 8300000, guid: 34e1a84fc342f7849a2cb0177103123c, type: 3}
   bgmButtonText: {fileID: 1706299237}
 --- !u!4 &696511507
@@ -6556,7 +6556,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -8, y: -2}
+  m_AnchoredPosition: {x: -20, y: -2}
   m_SizeDelta: {x: -1395.515, y: -526.289}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1581696987
@@ -7044,7 +7044,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1, y: 109}
+  m_AnchoredPosition: {x: -16, y: 109}
   m_SizeDelta: {x: 281.444, y: 41.297}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1993253369
