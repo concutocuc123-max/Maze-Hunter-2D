@@ -5,12 +5,12 @@ using System.Collections.Generic;
 public class PlayerAttack : MonoBehaviour
 {
     [Header("Cấu hình Tấn công")]
-    public float attackRange = 1.5f;     // Bán kính vùng tấn công xung quanh Player
-    public int attackDamage = 1;        // Sát thương gây ra mỗi lần bấm Space
-    public float attackCooldown = 0.4f; // Thời gian chờ giữa 2 lần đánh 
-    public LayerMask enemyLayer;        // Layer của Quái vật
+    public float attackRange = 1.5f;    
+    public int attackDamage = 1;        
+    public float attackCooldown = 0.4f; 
+    public LayerMask enemyLayer;      
 
-    public AudioClip attackSound;       // Âm thanh vung đòn 
+    public AudioClip attackSound;      
     private float nextAttackTime = 0f;
     private AudioSource audioSource;
 
@@ -21,8 +21,8 @@ public class PlayerAttack : MonoBehaviour
 
     void Update()
     {
-        // Nhấn phím SPACE để tấn công
-        if (Time.time >= nextAttackTime && Input.GetKeyDown(KeyCode.Space))
+        // Nhấn CHUỘT TRÁI (0) để tấn công
+        if (Time.time >= nextAttackTime && Input.GetMouseButtonDown(0))
         {
             Attack();
             nextAttackTime = Time.time + attackCooldown;

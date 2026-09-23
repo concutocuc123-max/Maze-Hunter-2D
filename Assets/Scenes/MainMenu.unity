@@ -919,16 +919,16 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\r<b>1. \u0110I\u1EC0U KHI\u1EC2N (CONTROLS)</b>\r\n\u2022 <b>Di chuy\u1EC3n:</b>
     Ph\xEDm <b>A / D / S / W</b> ho\u1EB7c <b>M\u0169i t\xEAn Tr\xE1i / Ph\u1EA3i
-    / L\xEAn / Xu\u1ED1ng</b>\n\u2022 <b>T\u1EA5n c\xF4ng:</b> Ph\xEDm <b>Space</b>\r\r\n\u2022
-    <b>T\u1EA1m d\u1EEBng:</b> Ph\xEDm <b>ESC</b>\n\r\n\r\n<b>2. M\u1EE4C TI\xCAU
-    (OBJECTIVE)</b>\r\n\u2022 Thu th\u1EADp \u0111\u1EE7 <color=#FFD700><b>Xu (Coins)</b></color>
-    y\xEAu c\u1EA7u \u1EDF m\u1ED7i m\xE0n.\r\n\u2022 Ti\u1EBFn \u0111\u1EBFn <color=#00FF7F><b>C\u1EEDa
-    tho\xE1t (Exit)</b></color> \u0111\u1EC3 sang m\xE0n ti\u1EBFp theo.\r\n\r\n<b>3.
-    L\u01AFU \xDD (RULES)</b>\r\n\u2022 <color=#FF4500><b>Tr\xE1nh k\u1EBB \u0111\u1ECBch
-    & b\u1EABy:</b></color> B\u1ECB tr\xFAng \u0111\xF2n s\u1EBD m\u1EA5t M\xE1u
-    (Health). H\u1EBFt m\xE1u = Thua!\r\n\u2022 <color=#00BFFF><b>Th\u1EDDi gian:</b></color>
-    Ho\xE0n th\xE0nh tr\u01B0\u1EDBc khi \u0111\u1ED3ng h\u1ED3 \u0111\u1EBFm ng\u01B0\u1EE3c
-    v\u1EC1 0."
+    / L\xEAn / Xu\u1ED1ng</b>\n\u2022 <b>T\u1EA5n c\xF4ng:</b> Nh\u1EA5n <b>Chu\u1ED9t
+    tr\xE1i</b>\r\r\n\u2022 <b>T\u1EA1m d\u1EEBng:</b> Ph\xEDm <b>ESC</b>\n\r\n\r\n<b>2.
+    M\u1EE4C TI\xCAU (OBJECTIVE)</b>\r\n\u2022 Thu th\u1EADp \u0111\u1EE7 <color=#FFD700><b>Xu
+    (Coins)</b></color> y\xEAu c\u1EA7u \u1EDF m\u1ED7i m\xE0n.\r\n\u2022 Ti\u1EBFn
+    \u0111\u1EBFn <color=#00FF7F><b>C\u1EEDa tho\xE1t (Exit)</b></color> \u0111\u1EC3
+    sang m\xE0n ti\u1EBFp theo.\r\n\r\n<b>3. L\u01AFU \xDD (RULES)</b>\r\n\u2022
+    <color=#FF4500><b>Tr\xE1nh k\u1EBB \u0111\u1ECBch & b\u1EABy:</b></color> B\u1ECB
+    tr\xFAng \u0111\xF2n s\u1EBD m\u1EA5t M\xE1u (Health). H\u1EBFt m\xE1u = Thua!\r\n\u2022
+    <color=#00BFFF><b>Th\u1EDDi gian:</b></color> Ho\xE0n th\xE0nh tr\u01B0\u1EDBc
+    khi \u0111\u1ED3ng h\u1ED3 \u0111\u1EBFm ng\u01B0\u1EE3c v\u1EC1 0."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
