@@ -196,6 +196,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &15984815
 SpriteRenderer:
   serializedVersion: 3
@@ -481,6 +482,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &61123369
 SpriteRenderer:
   serializedVersion: 3
@@ -766,6 +768,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &133990036
 SpriteRenderer:
   serializedVersion: 3
@@ -1900,6 +1903,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &429497339
 SpriteRenderer:
   serializedVersion: 3
@@ -4993,6 +4997,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &646375913
 SpriteRenderer:
   serializedVersion: 3
@@ -6159,6 +6164,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &769852488
 SpriteRenderer:
   serializedVersion: 3
@@ -6311,6 +6317,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &911234622
 SpriteRenderer:
   serializedVersion: 3
@@ -6729,6 +6736,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1026087445
 SpriteRenderer:
   serializedVersion: 3
@@ -6970,6 +6978,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1046865797
 SpriteRenderer:
   serializedVersion: 3
@@ -7122,6 +7131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1159261196
 SpriteRenderer:
   serializedVersion: 3
@@ -7589,6 +7599,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1205176661
 SpriteRenderer:
   serializedVersion: 3
@@ -8075,6 +8086,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1264271762
 SpriteRenderer:
   serializedVersion: 3
@@ -8227,6 +8239,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1265930864
 SpriteRenderer:
   serializedVersion: 3
@@ -8757,6 +8770,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1386654196
 SpriteRenderer:
   serializedVersion: 3
@@ -9312,6 +9326,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1432065172
 SpriteRenderer:
   serializedVersion: 3
@@ -9464,6 +9479,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1461870531
 SpriteRenderer:
   serializedVersion: 3
@@ -10262,6 +10278,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1560629281
 SpriteRenderer:
   serializedVersion: 3
@@ -10494,6 +10511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1669304252
 SpriteRenderer:
   serializedVersion: 3
@@ -10866,6 +10884,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1756285228
 SpriteRenderer:
   serializedVersion: 3
@@ -11064,6 +11083,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1765324221
 SpriteRenderer:
   serializedVersion: 3
@@ -11216,6 +11236,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1812467752
 SpriteRenderer:
   serializedVersion: 3
@@ -11702,6 +11723,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1929443466
 SpriteRenderer:
   serializedVersion: 3
@@ -11854,6 +11876,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1934214001
 SpriteRenderer:
   serializedVersion: 3
@@ -12006,6 +12029,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1942785202
 SpriteRenderer:
   serializedVersion: 3
@@ -12158,6 +12182,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &1980859743
 SpriteRenderer:
   serializedVersion: 3
@@ -12396,7 +12421,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 768, y: 513}
+  m_AnchoredPosition: {x: 684, y: 513}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1990170901
@@ -12838,6 +12863,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &2020607723
 SpriteRenderer:
   serializedVersion: 3
@@ -13248,6 +13274,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &2059038840
 SpriteRenderer:
   serializedVersion: 3
@@ -13400,6 +13427,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6bce62eeff4f03e488fbcb946111d5c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  trapdamage: 1
 --- !u!212 &2073802238
 SpriteRenderer:
   serializedVersion: 3
